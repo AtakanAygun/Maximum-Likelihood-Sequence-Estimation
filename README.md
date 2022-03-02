@@ -1,1 +1,1 @@
-# Maximum-Likelihood-Sequence-Estimation
+# Maximum-Likelihood-Sequence-Estimation Channel Equalizer
